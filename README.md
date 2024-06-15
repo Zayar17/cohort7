@@ -1,2 +1,2 @@
 # cohort7
-This is cohort7 repository.
+This is updated version of read file.
